@@ -1,0 +1,1 @@
+# This command creates an empty index.html file in the current directory.
